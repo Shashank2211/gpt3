@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.e2b1de70.css",
+    "main.js": "/react-gh-pages/static/js/main.5e43634f.js",
+    "static/media/ai.png": "/react-gh-pages/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/react-gh-pages/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/react-gh-pages/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/react-gh-pages/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/react-gh-pages/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/react-gh-pages/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/react-gh-pages/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/react-gh-pages/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/react-gh-pages/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.e2b1de70.css.map": "/react-gh-pages/static/css/main.e2b1de70.css.map",
+    "main.5e43634f.js.map": "/react-gh-pages/static/js/main.5e43634f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2b1de70.css",
+    "static/js/main.5e43634f.js"
+  ]
+}
